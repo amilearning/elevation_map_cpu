@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/hmcl/map_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/hmcl/map_ws/src/elevation_mapping/elevation_mapping/include/**",
+        "/home/hmcl/map_ws/src/kindr_ros/kindr_ros/include/**",
+        "/home/hmcl/map_ws/src/kindr_ros/kindr_rviz_plugins/include/**",
+        "/home/hmcl/map_ws/src/message_logger/include/**",
+        "/home/hmcl/map_ws/src/kindr_ros/multi_dof_joint_trajectory_rviz_plugins/include/**",
+        "/home/hmcl/map_ws/src/param_io/include/**",
+        "/home/hmcl/map_ws/src/traversability_estimation/traversability_estimation/include/**",
+        "/home/hmcl/map_ws/src/traversability_estimation/traversability_estimation_filters/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
